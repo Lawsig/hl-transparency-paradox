@@ -1,0 +1,27 @@
+# Core data manipulation
+pandas>=2.0,<3.0
+pyarrow>=12.0
+numpy>=1.24,<2.0
+
+# Econometrics
+statsmodels>=0.14
+linearmodels>=5.3   # Driscoll-Kraay standard errors
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13       # Used in some figures
+
+# Data fetching
+requests>=2.31
+tqdm>=4.66
+
+# Utility
+python-dateutil>=2.8
+pytz>=2024.1
+
+# Optional: faster regression on large panels
+# pyhdfe>=0.2
+
+# Optional: for VPIN classification using Lee-Ready algorithm fallback
+# scikit-learn>=1.3
