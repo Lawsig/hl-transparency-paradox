@@ -127,7 +127,7 @@ Implementation: `scripts/04_placebo/placebo_test.py`
 Three events tested:
 1. **2025-10-10** (main): Trump tariff announcement → $1.5B HL liquidations
 2. **2025-11-21**: BLS jobs invalidation → BTC flash crash, $0.8B HL liquidations
-3. **2026-01-30**: Yen-carry trade unwind → $1.7B HL liquidations
+3. **2026-01-30**: Trump's Kevin Warsh Fed Chair nomination + US budget deadline + BTC support-level breakdown
 
 All 3 events show amp > 1, confirming H3 is not unique to the main event.
 
